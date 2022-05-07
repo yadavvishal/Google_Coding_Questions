@@ -1,4 +1,5 @@
 // Program to convert the string into  an integer
+// Without using Built in function
 
 
 class Solution{
